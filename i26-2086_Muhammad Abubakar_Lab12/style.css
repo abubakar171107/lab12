@@ -19,3 +19,8 @@ h1 {
 .amk {
 	padding: 5px 80px;
 }
+.avatar {
+width: 120px;
+height: 120px;
+border-radius: 50%;
+}
